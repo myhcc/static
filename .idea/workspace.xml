@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1320f6e-a902-4be7-915b-657d629fd94c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sese/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sese/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sese/js/layui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sese/temp/cs.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +93,7 @@
       <workItem from="1641297656843" duration="1012000" />
       <workItem from="1641298686182" duration="19000" />
       <workItem from="1641302791027" duration="888000" />
-      <workItem from="1646026883029" duration="934000" />
+      <workItem from="1646026883029" duration="1839000" />
     </task>
     <task id="LOCAL-00001" summary="idea commit">
       <created>1641288028629</created>
@@ -125,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646027016120</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="idea commit">
+      <created>1646027872108</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646027872108</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,10 +148,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1646027481988" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1646027014215">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1646027870918">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1646027014215" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1646027870918" />
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1641303055072">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -159,10 +164,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1641303689547" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1646027419920">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1646028112115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1646027419920" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1646028112115" />
     <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1641302801372">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
