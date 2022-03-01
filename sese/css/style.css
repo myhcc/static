@@ -250,11 +250,11 @@ DIV.black SPAN.disabled {
 
 .bottom_ul ul li{
   list-style-type: none;
-  font-size: 20px;
+  font-size: 15px;
   color: white;
   float: left;
-  padding: 10px;
-  line-height: 40px;
+  padding: 8px;
+  line-height: 20px;
 }
 .bottom_ul ul li:hover {
   color: #1C7430;
