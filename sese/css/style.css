@@ -193,7 +193,7 @@ body{background-color: #222}
 .main_player_list{clear:both;display: block;margin: 0 auto;margin-top: 50px;max-width: 1180px;display:table }
 .main_player_list video{display: inline-block;width: 250px;height: 200px;margin-left: 20px;border: 1px solid #344157;margin-right: 20px;}
 .guochan{clear:both;max-width: 1180px;margin: 0 auto;margin-top: 30px}
-.video_list{max-width: 1180px}
+.video_list{max-width: 1180px;margin: 0 auto}
 legend{color: white !important}
 fieldset a{color: #60AFF6!important;}
 @media (max-width:1000px) {
