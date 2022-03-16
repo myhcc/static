@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1320f6e-a902-4be7-915b-657d629fd94c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sese/img/bgimg/icc61.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="f1320f6e-a902-4be7-915b-657d629fd94c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +101,7 @@
       <workItem from="1646725370293" duration="125000" />
       <workItem from="1647235637697" duration="1840000" />
       <workItem from="1647360559461" duration="409000" />
-      <workItem from="1647363575695" duration="487000" />
+      <workItem from="1647363575695" duration="537000" />
     </task>
     <task id="LOCAL-00001" summary="idea commit">
       <created>1641288028629</created>
