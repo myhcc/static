@@ -209,6 +209,7 @@ a:hover{
 }
 .index_recd li.index_recd_item {
 	list-style:none;
+	text-align: center;
 }
 .index_recd li a {
 	color: #009688;
