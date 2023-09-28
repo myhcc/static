@@ -1,6 +1,6 @@
 RED_COLOR='\E[1;31m'
 
-cd /www/java/static
+cd /java/static
 echo -e "\033[31m =====================pull===================== \033[0m"
 git pull
 echo -e "\033[31m =====================pull over===================== \033[0m"
